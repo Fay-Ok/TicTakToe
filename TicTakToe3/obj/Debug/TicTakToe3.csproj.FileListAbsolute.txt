@@ -1,0 +1,12 @@
+C:\VS_Projects\TicTakToe3\TicTakToe3\bin\Debug\TicTakToe3.dll
+C:\VS_Projects\TicTakToe3\TicTakToe3\bin\Debug\TicTakToe3.pdb
+C:\VS_Projects\TicTakToe3\TicTakToe3\bin\Debug\ApprovalTests.dll
+C:\VS_Projects\TicTakToe3\TicTakToe3\bin\Debug\ApprovalUtilities.dll
+C:\VS_Projects\TicTakToe3\TicTakToe3\bin\Debug\ApprovalUtilities.Net45.dll
+C:\VS_Projects\TicTakToe3\TicTakToe3\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\VS_Projects\TicTakToe3\TicTakToe3\bin\Debug\ApprovalTests.xml
+C:\VS_Projects\TicTakToe3\TicTakToe3\bin\Debug\ApprovalUtilities.xml
+C:\VS_Projects\TicTakToe3\TicTakToe3\bin\Debug\ApprovalUtilities.Net45.xml
+C:\VS_Projects\TicTakToe3\TicTakToe3\obj\Debug\TicTakToe3.csprojResolveAssemblyReference.cache
+C:\VS_Projects\TicTakToe3\TicTakToe3\obj\Debug\TicTakToe3.dll
+C:\VS_Projects\TicTakToe3\TicTakToe3\obj\Debug\TicTakToe3.pdb

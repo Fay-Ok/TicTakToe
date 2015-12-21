@@ -1,0 +1,28 @@
+﻿[O,TicTakToe3.Losers] => 
+ O |   |   
+---+---+---
+   | O |   
+---+---+---
+   |   |   
+O is not a winner
+[O,TicTakToe3.Losers] => 
+ O |   |   
+---+---+---
+ O |   |   
+---+---+---
+   |   |   
+O is not a winner
+[X,TicTakToe3.Losers] => 
+ X |   |   
+---+---+---
+   | X |   
+---+---+---
+   |   |   
+X is not a winner
+[X,TicTakToe3.Losers] => 
+ X |   |   
+---+---+---
+ X |   |   
+---+---+---
+   |   |   
+X is not a winner

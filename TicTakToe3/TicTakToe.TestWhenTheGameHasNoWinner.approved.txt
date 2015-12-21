@@ -1,0 +1,48 @@
+﻿[X,TicTakToe3.Scenario] => 
+ X is Winner of right Diagolan
+
+   |   | X 
+---+---+---
+   | X |   
+---+---+---
+ X |   |   
+[X,TicTakToe3.Scenario] => 
+ X is Winner of middle Row 
+
+   |   |   
+---+---+---
+ X | X | X 
+---+---+---
+   |   |   
+[X,TicTakToe3.Scenario] => 
+ X is None compeleted 
+
+ X |   |   
+---+---+---
+ X |   |   
+---+---+---
+   |   |   
+[O,TicTakToe3.Scenario] => 
+ O is Winner of right Diagolan
+
+   |   | O 
+---+---+---
+   | O |   
+---+---+---
+ O |   |   
+[O,TicTakToe3.Scenario] => 
+ O is Winner of middle Row 
+
+   |   |   
+---+---+---
+ O | O | O 
+---+---+---
+   |   |   
+[O,TicTakToe3.Scenario] => 
+ O is None compeleted 
+
+ O |   |   
+---+---+---
+ O |   |   
+---+---+---
+   |   |   

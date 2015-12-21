@@ -1,0 +1,112 @@
+﻿[X,TicTakToe3.Scenario] => 
+ X | X | X 
+---+---+---
+   |   |   
+---+---+---
+   |   |   
+ X is the winner of :Top Row
+[X,TicTakToe3.Scenario] => 
+ X |   |   
+---+---+---
+   | X |   
+---+---+---
+   |   | X 
+ X is the winner of :Left Diagonal
+[X,TicTakToe3.Scenario] => 
+   |   |   
+---+---+---
+   |   |   
+---+---+---
+ X | X | X 
+ X is the winner of :Bottom Row 
+[X,TicTakToe3.Scenario] => 
+   |   | X 
+---+---+---
+   | X |   
+---+---+---
+ X |   |   
+ X is the winner of :Right Diagonal 
+[X,TicTakToe3.Scenario] => 
+   |   |   
+---+---+---
+ X | X | X 
+---+---+---
+   |   |   
+ X is the winner of :Middle Row
+[X,TicTakToe3.Scenario] => 
+ X |   |   
+---+---+---
+ X |   |   
+---+---+---
+ X |   |   
+ X is the winner of :Left column
+[X,TicTakToe3.Scenario] => 
+   | X |   
+---+---+---
+   | X |   
+---+---+---
+   | X |   
+ X is the winner of :Middle column
+[X,TicTakToe3.Scenario] => 
+   |   | X 
+---+---+---
+   |   | X 
+---+---+---
+   |   | X 
+ X is the winner of :Right column
+[O,TicTakToe3.Scenario] => 
+ O | O | O 
+---+---+---
+   |   |   
+---+---+---
+   |   |   
+ O is the winner of :Top Row
+[O,TicTakToe3.Scenario] => 
+ O |   |   
+---+---+---
+   | O |   
+---+---+---
+   |   | O 
+ O is the winner of :Left Diagonal
+[O,TicTakToe3.Scenario] => 
+   |   |   
+---+---+---
+   |   |   
+---+---+---
+ O | O | O 
+ O is the winner of :Bottom Row 
+[O,TicTakToe3.Scenario] => 
+   |   | O 
+---+---+---
+   | O |   
+---+---+---
+ O |   |   
+ O is the winner of :Right Diagonal 
+[O,TicTakToe3.Scenario] => 
+   |   |   
+---+---+---
+ O | O | O 
+---+---+---
+   |   |   
+ O is the winner of :Middle Row
+[O,TicTakToe3.Scenario] => 
+ O |   |   
+---+---+---
+ O |   |   
+---+---+---
+ O |   |   
+ O is the winner of :Left column
+[O,TicTakToe3.Scenario] => 
+   | O |   
+---+---+---
+   | O |   
+---+---+---
+   | O |   
+ O is the winner of :Middle column
+[O,TicTakToe3.Scenario] => 
+   |   | O 
+---+---+---
+   |   | O 
+---+---+---
+   |   | O 
+ O is the winner of :Right column
